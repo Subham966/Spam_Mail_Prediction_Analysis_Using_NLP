@@ -12,8 +12,6 @@ The trained model achieves high accuracy in distinguishing between spam and non-
 
 The project includes sample code for training the model and making predictions on new email data.
 
-It also demonstrates the evaluation of the model using performance metrics such as accuracy, precision, recall, and F1 score.
-
 Detailed documentation is provided to guide users on how to replicate the experiment and adapt it to their own datasets.
 
 By utilizing NLP and machine learning techniques, this project offers an effective solution for spam email detection, potentially improving email security and reducing inbox clutter.
